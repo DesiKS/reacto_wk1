@@ -1,5 +1,3 @@
-# stringSearch
-
 class: center, middle
 
 # String Search
