@@ -79,8 +79,7 @@ function indexOf(needle, haystack) {
       //O(1) constant
     }
   }
-  return -1;
-  O(1); // constant
+  return -1; // O(1) -> constant
 }
 ```
 
